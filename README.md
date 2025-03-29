@@ -6,7 +6,7 @@ This project focuses on predicting rainfall using machine learning techniques. T
 
 # Technologies Used
 
-Python -Main programming language
+- Python -Main programming language
 
 - Pandas – Data manipulation and preprocessing
 
@@ -37,7 +37,7 @@ Python -Main programming language
 - Load dataset and check for missing values.
 - Remove unnecessary spaces and handle null values.
 
-  2.Exploratory Data Analysis (EDA)
+ 2.Exploratory Data Analysis (EDA)
 
 - Visualize distributions of features.
 
@@ -59,7 +59,7 @@ Python -Main programming language
 
 - Evaluate models using accuracy, precision, and recall.
 
-4.Predictions & Insights
+4. Predictions & Insights
 
 - Compare model performance.
 
@@ -71,7 +71,7 @@ Python -Main programming language
    pip install pandas numpy matplotlib seaborn scikit-learn
 
 2.Open and run the Jupyter Notebook (Rainfall_Prediction.ipynb).
-
+ 
 3.Follow the step-by-step code execution to understand the workflow.
 
 # Future Improvements
