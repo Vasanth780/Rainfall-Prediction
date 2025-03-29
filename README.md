@@ -67,7 +67,7 @@ This project focuses on predicting rainfall using machine learning techniques. T
 
   # How to Run the Project
 
- 1. Install required dependencies using:
+1. Install required dependencies using:
    pip install pandas numpy matplotlib seaborn scikit-learn
 
  2.Open and run the Jupyter Notebook (Rainfall_Prediction.ipynb).
