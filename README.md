@@ -33,9 +33,60 @@ This project focuses on predicting rainfall using machine learning techniques. T
 
 # Steps in the Project
 
-1.Data Loading & Cleaning
+1. Data Loading & Cleaning
 - Load dataset and check for missing values.
 - Remove unnecessary spaces and handle null values.
+
+  2.Exploratory Data Analysis (EDA)
+
+- Visualize distributions of features.
+
+- Detect and handle outliers.
+
+- Perform correlation analysis to remove redundant features.
+
+3.  Model Training & Evaluation
+
+- Split data into training and testing sets.
+
+- Train different machine learning models such as:
+
+- Decision Tree Classifier
+
+- Random Forest Classifier
+
+- XGBoost Classifier
+
+- Evaluate models using accuracy, precision, and recall.
+
+4.Predictions & Insights
+
+- Compare model performance.
+
+- Make predictions and interpret the results.
+
+  # How to Run the Project
+
+1. Install required dependencies using:
+   pip install pandas numpy matplotlib seaborn scikit-learn
+
+2.Open and run the Jupyter Notebook (Rainfall_Prediction.ipynb).
+
+3.Follow the step-by-step code execution to understand the workflow.
+
+# Future Improvements
+
+- Use deep learning models for better accuracy.
+
+- Include additional weather parameters like humidity and air pressure.
+
+- Deploy the model as a web application for real-time predictions.
+
+  # Conclusion
+
+  This project demonstrates how machine learning can be used to analyze weather data and predict rainfall. By leveraging data preprocessing, feature selection, and model evaluation techniques, we can build a robust predictive model.
+
+
 
 
 
