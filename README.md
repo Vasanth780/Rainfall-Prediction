@@ -6,7 +6,7 @@ This project focuses on predicting rainfall using machine learning techniques. T
 
 # Technologies Used
 
-- Python – Main programming language
+ # Python - Main programming language
 
 - Pandas – Data manipulation and preprocessing
 
